@@ -19,13 +19,13 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "M.Sc. in Applied Information Science"
-  institution = "Technion - Israel Institute of Technology"
+  course = "M.Sc. in Information Systems"
+  institution = "Cornell University"
   year = 2019
 
 [[education.courses]]
-  course = "M.Sc. in Information Systems"
-  institution = "Cornell University"
+  course = "M.Sc. in Applied Information Science"
+  institution = "Technion - Israel Institute of Technology"
   year = 2019
 
 [[education.courses]]
@@ -37,6 +37,6 @@ weight = 1
 
 # Biography
 
-I am an Information Science student at Cornell Tech in New York City. My research interests include distributed computing, machine learning and design thinking.
+I am an Information Science student at Cornell Tech in New York City. My interests include distributed computing, machine learning and design thinking.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
